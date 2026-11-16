@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Waves
+
+**Embryo Waves** is Embryo-Zero's fork of [GTKWave](https://github.com/gtkwave/gtkwave), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # GTKWave
 
 GTKWave is a fully featured GTK+ based wave viewer for Unix and Win32 which reads FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing.
